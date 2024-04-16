@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9293782b-d721-492f-a003-6b1bc76b0a76" name="Changes" comment="try_bypass_G">
+    <list default="true" id="9293782b-d721-492f-a003-6b1bc76b0a76" name="Changes" comment="try_by_LinerSearch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinerSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinerSearch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.LinerSearch.executor": "Run",
     "Python.LinkedList.executor": "Run",
     "Python.Statins_path.oy.executor": "Run",
     "Python.main.executor": "Run",
@@ -57,7 +57,34 @@
     "last_opened_file_path": "C:/Users/User/PycharmProjects/Binary_tree/LinkedList.py"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.LinkedList">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Binary_tree" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.LinerSearch">
+    <configuration name="LinerSearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Binary_tree" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinerSearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="LinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Binary_tree" />
       <option name="ENV_FILES" value="" />
@@ -126,6 +153,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LinerSearch" />
         <item itemvalue="Python.LinkedList" />
         <item itemvalue="Python.Statins_path.oy" />
       </list>
@@ -171,7 +199,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713282763855</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="try_by_LinerSearch">
+      <option name="closed" value="true" />
+      <created>1713283575030</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713283575030</updated>
+    </task>
+    <task id="LOCAL-00005" summary="try_by_LinerSearch">
+      <option name="closed" value="true" />
+      <created>1713283720562</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713283720562</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +233,7 @@
     <MESSAGE value="try_binary_tree" />
     <MESSAGE value="try_class_LinkedList_by_List" />
     <MESSAGE value="try_bypass_G" />
-    <option name="LAST_COMMIT_MESSAGE" value="try_bypass_G" />
+    <MESSAGE value="try_by_LinerSearch" />
+    <option name="LAST_COMMIT_MESSAGE" value="try_by_LinerSearch" />
   </component>
 </project>
